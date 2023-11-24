@@ -1,0 +1,6 @@
+a=int(input("Nhập số a:"))
+b=int(input("Nhập số b:"))
+c=int(input("Nhấp số c:"))
+d=int(input("Nhấp số d:"))
+print("Số lớn nhất  là:",max(a,b,c,d))
+print("Số nhỏ nhất là:",min(a,b,c,d))
